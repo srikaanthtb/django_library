@@ -42,7 +42,7 @@ netifaces==0.10.4
 oauthlib==3.1.0
 pexpect==4.6.0
 psycopg2-binary==2.8.6
-pyasn1==0.4.2
+pyasn1==0.4.8
 pyasn1-modules==0.2.1
 PyGObject==3.36.0
 PyHamcrest==1.9.0
@@ -59,7 +59,7 @@ pytz==2020.1
 PyYAML==5.3.1
 requests==2.22.0
 requests-unixsocket==0.2.0
-SecretStorage==2.3.1
+SecretStorage==3.3.1
 service-identity==18.1.0
 simplejson==3.16.0
 six==1.14.0
