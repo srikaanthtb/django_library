@@ -24,7 +24,7 @@ hyperlink==19.0.0
 idna==2.8
 importlib-metadata==1.5.0
 incremental==16.10.1
-isort==5.6.0
+isort==5.10.1
 Jinja2==2.10.1
 jsonpatch==1.22
 jsonpointer==2.0
@@ -59,7 +59,7 @@ pytz==2020.1
 PyYAML==5.3.1
 requests==2.22.0
 requests-unixsocket==0.2.0
-SecretStorage==2.3.1
+SecretStorage==3.3.2
 service-identity==18.1.0
 simplejson==3.16.0
 six==1.14.0
