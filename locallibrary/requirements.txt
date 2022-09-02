@@ -34,7 +34,7 @@ language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.3
-lazy-object-proxy==1.4.3
+lazy-object-proxy==1.7.1
 MarkupSafe==1.1.0
 mccabe==0.6.1
 more-itertools==4.2.0
