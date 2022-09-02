@@ -12,7 +12,7 @@ command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
-dbus-python==1.2.16
+dbus-python==1.2.18
 distro==1.4.0
 distro-info===0.23ubuntu1
 dj-database-url==0.5.0
@@ -34,7 +34,7 @@ language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.3
-lazy-object-proxy==1.4.3
+lazy-object-proxy==1.7.1
 MarkupSafe==1.1.0
 mccabe==0.6.1
 more-itertools==4.2.0
